@@ -1,2 +1,2 @@
 # atolegen.github.io
-Tolegen Akhmetov is a PhD student in Robotics and Mechatronics at the Nazarbayev University. His research interests focus on Human-Robot Interaction using augmented reality.
+Tolegen Akhmetov is Assistant Professor at Astana IT University and SDU. His research interests include industrial safety, computer vision, augmented reality, mixed reality, and virtual reality.
